@@ -1,2 +1,2 @@
-*.dat
-!*.txt
+data/*.dat
+data/!*.txt
